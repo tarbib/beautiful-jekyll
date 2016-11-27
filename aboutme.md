@@ -16,6 +16,6 @@ subtitle: nothing to report.
 
 Basicially I just want to share back my findings. Have a look! 
 
-### my history
+### My history
 
 Not much yet.
