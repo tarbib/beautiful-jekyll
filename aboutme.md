@@ -5,6 +5,7 @@ subtitle: nothing to report.
 ---
 
 ## My name is Thomas Arbib.
+#### As it is clearly stated in the upper left corner.
 
 * I only understand things though bullet points
 * I really enjoy browsing the web and feed my curiosity with solutions to make my life simpler or cut out the middleman. 
