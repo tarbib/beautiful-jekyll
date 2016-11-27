@@ -1,16 +1,19 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: nothing to report.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+## My name is Thomas Arbib.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+* I only understand things though bullet points
+* I really enjoy browsing the web and feed my curiosity with solutions to make my life simpler or cut out the middleman. 
+* I am not a real tech guy so I try to render my tutorials in the most simple manner. 
+* I always like to get some feedback from more experienced people. 
+* I find it awkward that I have started the whole bullet point list with _I_ but this is an _About me_ section innit? 
 
-What else do you need?
+Basicially I just want to share back my findings. Have a look! 
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Not much yet.
