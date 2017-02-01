@@ -17,6 +17,7 @@ Second step : enter the Wechat Official account. Select "租借充电宝" = rent
 ![]({{site.baseurl}}/img/215176480451825518.jpg)
 
 You will be prompted to make a a deposit of 100 Yuan. You can make it with WeChat pay obviously. Do it.
+
 ![]({{site.baseurl}}/img/deposit.png)
 
 Third step : the magic happens 
@@ -26,6 +27,7 @@ The machine recognizes you and delivers a powerbank.
 
 Final step : When you're done. Just select "还" (give back). The box will open. Put it back and that's it!
 Optional : ask for the deposit back straight away. I got it instantly back into my wechat account.
+
 ![]({{site.baseurl}}/img/deposit%20return.png)
 
 As you know, they are many people in China and it is very common to queue for a long time between some good restaurant so people can easily borrow a powerbank to play on their phones while waiting. Futhermore I am not very clear with the company's business model, but I saw they sell USB cable but I don't think that it covers the cost of R&D and electricity + a possible commission to the restaurant. My take is that their goal is to gather as much deposit money as possible and get earnings from it.
