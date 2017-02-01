@@ -21,7 +21,8 @@ You will be prompted to make a a deposit of 100 Yuan. You can make it with WeCha
 ![]({{site.baseurl}}/img/deposit.png)
 
 Third step : the magic happens 
-![]({{site.baseurl}}/img/302051035299352280.jpg)
+![302051035299352280.jpg]({{site.baseurl}}/img/302051035299352280.jpg)
+
 The machine recognizes you and delivers a powerbank.
 ![]({{site.baseurl}}/img/325723498598938274.jpg)
 
