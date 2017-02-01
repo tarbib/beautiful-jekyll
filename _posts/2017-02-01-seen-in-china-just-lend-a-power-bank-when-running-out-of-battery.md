@@ -22,7 +22,10 @@ You will be prompted to make a a deposit of 100 Yuan. You can make it with WeCha
 Third step : the magic happens 
 ![]({{site.baseurl}}/img/302051035299352280.jpg)
 The machine recognizes you and delivers a powerbank.
+![]({{site.baseurl}}/img/325723498598938274.jpg)![325723498598938274.jpg]({{site.baseurl}}/img/325723498598938274.jpg)
 
+Final step : When you're done. Just select "还" (give back). The box will open. Put it back and that's it!
+Optional : ask for the deposit back straight away. I got it instantly back into my wechat account.
+![]({{site.baseurl}}/img/deposit%20return.png)
 
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+As you know, they are many people in China and it is very common to queue for a long time between some good restaurant so people can easily borrow a powerbank to play on their phones while waiting. Futhermore I am not very clear with the company's business model, but I saw they sell USB cable but I don't think that it covers the cost of R&D and electricity + a possible commission to the restaurant. My take is that their goal is to gather as much deposit money as possible and get earnings from it.
