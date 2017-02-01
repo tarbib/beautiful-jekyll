@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: 'Seen in China : just lend a power bank when running out of battery '
 ---
 The other night I went to the restaurant and my phone was running out of battery. This is a problem when you are used to pay the bill with wechat payment or order a taxi with Didi. As usual, I asked the waiter if they could charge my phone but this time he pointed a machine to me. This one :
