@@ -14,7 +14,7 @@ As **a new user** I chose the "借" which give you another two choices a WeChat 
 ![]({{site.baseurl}}/img/395844047844558700.jpg)
 
 Second step : enter the Wechat Official account. Select "租借充电宝" = rent a powerbank, scan again the QR code.
-![]({{site.baseurl}}/img/215176480451825518.jpg)![215176480451825518.jpg]({{site.baseurl}}/img/215176480451825518.jpg)
+![]({{site.baseurl}}/img/215176480451825518.jpg)
 
 You will be prompted to make a a deposit of 100 Yuan. You can make it with WeChat pay obviously. Do it.
 ![]({{site.baseurl}}/img/deposit.png)
