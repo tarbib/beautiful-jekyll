@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The command lines I use the most
+title: Command lines I use the most
 subtitle: I often need to copy and paste them
 published: true
 ---
