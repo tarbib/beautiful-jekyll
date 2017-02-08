@@ -10,7 +10,7 @@ sudo pip install --upgrade youtube-dl
 youtube-dl videurl -o "~/Sync/%(title)s.%(ext)s"
 
 ## Network
-hostname -I 
+hostname -I
 Show your local IP address
 
 ## Files
@@ -24,12 +24,12 @@ sudo rm -rfv folderName
 Delete a folder and all its content
 
 ## Crontab
-crontab -l 
+crontab -l
 Show the crontab
-crontab -e 
-(edit crontab list)
+crontab -e
+edit crontab list
 
-ls -a 
+ls -a
 Show all files even hidden ones
 
 find -name "logo.png"
@@ -37,8 +37,8 @@ Find a file named logo.png
 
 
 ## Others
-pwd 
+pwd
 Show where I am located / Current path
 
-df -h 
+df -h
 Check disk space
