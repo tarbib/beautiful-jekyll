@@ -5,15 +5,15 @@ subtitle: I often need to copy and paste them
 published: true
 ---
 
-# Youtube-dl
+## Youtube-dl
 sudo pip install --upgrade youtube-dl
 youtube-dl videurl -o "~/Sync/%(title)s.%(ext)s"
 
-# Network
+## Network
 hostname -I 
 Show your local IP address
 
-# Files
+## Files
 rm *.mp4.*
 Remove all files with mp4 extension
 
@@ -23,7 +23,7 @@ Edit the file
 sudo rm -rfv folderName 
 Delete a folder and all its content
 
-# Crontab
+## Crontab
 crontab -l 
 Show the crontab
 crontab -e 
@@ -36,7 +36,7 @@ find -name "logo.png"
 Find a file named logo.png
 
 
-# Others
+## Others
 pwd 
 Show where I am located / Current path
 
