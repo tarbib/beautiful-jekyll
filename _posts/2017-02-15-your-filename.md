@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: 'How I buy movie tickets in China '
 ---
 The process of how buying movie tickets in China without leaving Wechat is pretty straightforward and convenient. 
@@ -17,11 +17,11 @@ So this article will focus on the "Movie Tickets" section of the wallet.
 ![lalaland.png]({{site.baseurl}}/img/lalaland.png)
 
 
-When you get in, you have access to a list of movies, after selecting the one you want to watch (lalaland in this case) h, you click on 立即购买（buy now.
+When you get in, you have access to a list of movies, after selecting the one you want to watch (lalaland in this case), you click on 立即购买（buy now).
 
 ![theater selection.png]({{site.baseurl}}/img/theater selection.png)
 
-select in which theater you want to do so. You can select by location, like the nearest to you. You'll be prompted with different timetables and starting price. 
+Just select in which theater you want to go to. You can select by location, like the nearest to you. You'll be prompted with different timetables and starting price. 
 
 ![price selection.png]({{site.baseurl}}/img/price selection.png)
 
