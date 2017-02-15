@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: 'How-I-buy-movie-tickets-in-China.md '
+title: How I buy movie tickets in China
 ---
 The process of how buying movie tickets in China without leaving Wechat is pretty straightforward and convenient. 
 
