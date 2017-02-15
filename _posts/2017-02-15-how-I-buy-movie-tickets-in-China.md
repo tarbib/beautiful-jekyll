@@ -31,7 +31,7 @@ When you made your decision on where you want to go, you can choose the specific
 ![seat selection.png]({{site.baseurl}}/img/seat selection.png)
 
 
-Here comes my favorite feature, I don't know about your country but when I lived in France we usually had to queue for a while because it's first arrived first served basis. Here in China you book your seat in advance. So no more queue, no more not enough seats to sit altogether. 
+Here comes my favorite feature, I don't know about your country but when I lived in France we usually had to queue for a while because it's first come, first served basis. Here in China you book your seat in advance. So no more queue, no more not enough seats to sit altogether. 
 
 Then you can place the order and pay with your wechat wallet. You will get a code to withdraw your tickets from the machine. 
 
