@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Metrodroid helps you check how much money left in your metro card
+title: Metrodroid lets you check how much money left in your metro card
 ---
 Have you ever wondered what was the use of you NFC chip? Here's one : check your public transportation card's balance. 
 
