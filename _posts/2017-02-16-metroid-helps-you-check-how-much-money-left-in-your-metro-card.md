@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Metroid helps you check how much money left in your metro card
 ---
 Have you ever wondered what was the use of you NFC chip? Here's one : check your public transportation card's balance. 
@@ -46,4 +46,4 @@ When I try the same thing with my 深圳通  (Shenzhen Tong), I get an error :
 
 It may be because the shenzhen's card support is still in beta or because my phone is not a NXP NFC chipset (About screen says: `Mifare Classic: Supported`). 
 
-Anyway, if your phone and city transportation card are fully supported it is a useful app to have. It happened to me a few times that I give away these cards to my friends before they go visit a city but I always have to warn them that "I don't know how much money is in it!". 
+Anyway, if your phone and city transportation card are fully supported it is a useful app to have. It happened to me a few times that I give away these cards to my friends before they go visit a city but I always have to warn them that "I don't know how much money is in it!".
