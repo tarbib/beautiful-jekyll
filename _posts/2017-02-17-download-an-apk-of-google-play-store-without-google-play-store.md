@@ -13,6 +13,7 @@ There is a tool to circumvent this if you do not want to rely on Chinese app sto
 
 You simply have to enter the link of the Google play Store link of the app (or directly the package name) you want in their form then they will provide a link to directly download the app. 
 Example : 
+
 Lykke Wallet : [https://play.google.com/store/apps/details?id=com.lykkex.LykkeWallet](https://play.google.com/store/apps/details?id=com.lykkex.LykkeWallet)
 
 Apk download link provided by APKfind [http://apkfind.com/dl/com.lykkex.LykkeWallet](http://apkfind.com/dl/com.lykkex.LykkeWallet)
