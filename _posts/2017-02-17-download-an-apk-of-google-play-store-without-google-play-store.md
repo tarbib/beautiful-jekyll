@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Download an apk of Google Play Store without Google Play Store
 ---
 If you have always purchased your Android devices in a major western market you probably never experienced the pain of having a phone without the Google play store. 
