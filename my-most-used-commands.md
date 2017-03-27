@@ -20,6 +20,9 @@ Remove all files with mp4 extension
 nano ~/.config/syncthing/config.xml
 Edit the file
 
+tail -n 100 file.log
+Display the last 100 lines of a log file
+
 sudo rm -rfv folderName 
 Delete a folder and all its content
 
