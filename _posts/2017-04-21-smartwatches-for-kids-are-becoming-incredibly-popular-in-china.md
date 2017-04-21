@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Smartwatches for kids are becoming incredibly popular in China
 ---
 ## Smartwatches for kids are becoming incredibly popular in China
