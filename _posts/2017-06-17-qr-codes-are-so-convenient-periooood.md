@@ -10,15 +10,17 @@ While I agree that the app seemed really complex and would certainly struggle fo
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;QR codes are the herpes of mobile technology.&quot; <a href="https://twitter.com/hashtag/SharkTank?src=hash">#SharkTank</a> <a href="https://t.co/tzJRprmR5P">pic.twitter.com/tzJRprmR5P</a></p>&mdash; Chris Sacca (@sacca) <a href="https://twitter.com/sacca/status/853059884622921728">April 15, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## Taobao login and products scan  
-Taobao is the ecommerce giant in China with hundred of millions of users. Some will present it as the Chinese amazon or ebay but I think it is more like a craiglist with builtin payment and chat apps. When you try to login on taobao from the brower you can either use a password then receive an sms on your phone (2FA) or scan a QR code and confirm the login from your taobao mobile app.
+## Taobao login and payments with Alipay
+Taobao is the ecommerce giant in China with hundred of millions of users. Some will present it as the Chinese amazon or ebay but I think it is more like a craiglist with builtin payment and chat apps. When you try to login on taobao from the brower you can either use a password then receive an sms on your phone (2FA) or scan a QR code and confirm the login from your taobao mobile app. Alipay is the "Chinese paypal", when you checkout from Taobao, you can scan a QR code from your deskptop screen and pay with your PIN on your phone.
 
-![QQ Music login]({{site.baseurl}}/img/media-20170424.png)
+![无标题.jpg]({{site.baseurl}}/img/无标题.jpg)
 
 
 ## Login on wechat on my computer  
 Wechat, if you do not know, is a messenger widely used in China. It can happen that like me you prefer to type from a keyboard and then would need to login on the desktop version of Wechat. There is only one solution : scan a QR code. 
-  
+
+![QQ Music login]({{site.baseurl}}/img/media-20170424.png)
+
 ## Dianping xiaofei  
 Dianping is an app I use at least once a week. They offer deals in restaurants near you. When you purchased your deal, you get a code that you need to give to the cashier for the payment. This code can be displayed as a QR code. Most of them will now have a special QR code reader connected to internet and directly mark your code as used.
 
