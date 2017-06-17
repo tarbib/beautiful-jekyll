@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: QR codes are so convenient PERIOOOOD
 ---
 I was watching episode 21 of the season 8 of Shark Tank, there was a startup called "Valued" trying to drive consumers back to brick and mortar shops when Chris Sacca said at 26.58 : 
