@@ -3,9 +3,15 @@ layout: post
 published: false
 title: QR codes are so convenient PERIOOOOD
 ---
-I was watching episode 21 of the season 8 of Shark Tank, there was a startup called "Valued" trying to drive consumers back to brick and mortar shops when Chris Sacca said at 26.58 : "And then you show me the QR Codes. QR codes are at the herpes of mobile technology, it should be as simple as : "buy some stuff, get a ride" PERIOOOOD". While I agree that the app seemed really complex and would certainly struggle for user acquisition, I was really surprised with his affirmation regarding QR codes. Indeed I have been living for three years in China now and I think that have not spent a single day without scanning a QR code since then. 
+I was watching episode 21 of the season 8 of Shark Tank, there was a startup called "Valued" trying to drive consumers back to brick and mortar shops when Chris Sacca said at 26.58 : 
+> "And then you show me the QR Codes. QR codes are at the herpes of mobile technology, it should be as simple as : "buy some stuff, get a ride" PERIOOOOD".
+
+While I agree that the app seemed really complex and would certainly struggle for user acquisition, I was really surprised with his affirmation regarding QR codes. Indeed I have been living for three years in China now and I think that have not spent a single day without scanning a QR code since then. 
 
 https://twitter.com/sacca/status/853059884622921728/photo/1 
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;QR codes are the herpes of mobile technology.&quot; <a href="https://twitter.com/hashtag/SharkTank?src=hash">#SharkTank</a> <a href="https://t.co/tzJRprmR5P">pic.twitter.com/tzJRprmR5P</a></p>&mdash; Chris Sacca (@sacca) <a href="https://twitter.com/sacca/status/853059884622921728">April 15, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Taobao login and products scan  
 taobao is the ecommerce giant in China with hundred of millions of users. Some will present it as the Chinese amazon or ebay but I think it is more like a craiglist with builtin payment and chat apps. When you try to login on taobao from the brower you can either use a password then receive an sms on your phone (2FA) or scan a QR code and confirm the login from your taobao mobile app.
