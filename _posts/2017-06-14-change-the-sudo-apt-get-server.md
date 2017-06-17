@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Change the sudo apt-get server
+title: Change the apt-get server your device connect to
 ---
 The first time I used the sudo apt-get command on my Raspberry Pi in China, I had a very bad connectivity with the apt-get mirror automatically selected so I had to find a way to force a direct connection to a specific remote server and this can be easily done by :  
 
