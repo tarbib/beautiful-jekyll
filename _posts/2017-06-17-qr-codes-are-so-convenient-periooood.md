@@ -28,7 +28,7 @@ Dianping is an app I use at least once a week. They offer deals in restaurants n
 When I was in Europe meeting new people, they would usually ask for my full name to add me on Facebook and keep in touch. Here in China we use Wechat for that. To me the most common ways to add somebody on wechat face to face is to spell my phone number (BORIIING) or to display my account QR code.
 
 You can add my wechat there :  
-![Add my wechat!]({{site.baseurl}}/img/photo_2017-06-17_15-11-04.jpg)
+![Add my wechat!]({{site.baseurl}}/img/photo_2017-06-17_15-11-04.jpg =250x)
 
 ## Receive payment on wechat  
 Wechat is also a payment processor linked to your Chinese bank account. It can happen that somebody owes you money but you do not necessarily wants him as a contact. Then you can just generate a request payment QR code with or without amount and let the guy scan it and pay.
