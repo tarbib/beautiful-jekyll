@@ -43,5 +43,8 @@ Almost the same as the previous exept that I pay in the supermarket, the cashier
 ## Follow brands  
 In the West, you see follow us on Facebook/ Twitter / Instagram with a full link or a @username. In China, it is very common to see QR code for each social networks, ususally Wechat or Weibo as the western ones are blocked.
 
-## Download app from websites (huijiachifan)  
-In China, we do not have the Play Store preinstalled on Android phones which can be really annoying but a common way to download app is to scan a QR code on the company website.
+## Download app from websites  
+In China, we do not have the Play Store preinstalled on Android phones which can be really annoying but a common way to download app is to scan a QR code on the company website. See on this [website](http://www.jiashuangkuaizi.com/) then hover on 下载APP on the right corner qnd you will see!
+
+Still thinking QR codes have no use except stinging your eyes Chris??
+
