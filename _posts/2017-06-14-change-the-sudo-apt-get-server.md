@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Change the sudo apt-get server
 ---
 ## Change the sudo apt-get server
