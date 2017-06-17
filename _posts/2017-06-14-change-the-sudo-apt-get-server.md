@@ -13,10 +13,8 @@ In my case the closest one was in Japan from the tsukuba server.
 
 Then you just have to edit the source file at /etc/apt/sources.list  
 
-sudo nano /etc/apt/sources.list  
-
+**sudo nano /etc/apt/sources.list**  
 Add the line and add a # before the other ones.  
-
 _deb http://ftp.tsukuba.wide.ad.jp/Linux/raspbian/raspbian/ jessie main contrib non-free rpi
 #deb http://mirrordirector.raspbian.org/raspbian/ jessie main contrib non-free rpi
 # Uncomment line below then 'apt-get update' to enable 'apt-get source'
