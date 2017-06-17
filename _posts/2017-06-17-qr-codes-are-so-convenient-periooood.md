@@ -34,8 +34,8 @@ Wechat is also a payment processor linked to your Chinese bank account. It can h
 ## Pay for my bus ticket  
 Now in metro station, there are new machines especailly to buy tcikets with mobile phones, guess what you have to scan QR codes! First you select the departing station and destination then it is either the machine scanning your generated-for-the-occasion QR code or you scan a QR on the machine. 
 
-## Pay in the supermarket  
-Almost the same as the previous exept that I pay in the supermarket, the cashier as a special reader...
+## Pay in the supermarket or street sellers  
+Almost the same as the previous exept that I pay in the supermarket, the cashier as a special reader... or ask you to scan a QR code and then he is notified on his wechat that a payment has been made.
 
 ![They have QR codes too!]({{site.baseurl}}/img/media-20170425.png)!
 
