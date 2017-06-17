@@ -5,8 +5,6 @@ title: Change the sudo apt-get server
 ---
 ## Change the sudo apt-get server
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-
 The first time I used the sudo apt-get command on my Raspberry Pi in China, I had a very bad connectivity with the apt-get mirror automatically selected so I had to find a way to force a direct connection to a specific remote server and this can be easily done by :
 Browsing the list of mirrors from https://www.raspbian.org/RaspbianMirrors
 
