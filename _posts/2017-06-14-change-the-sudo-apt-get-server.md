@@ -23,4 +23,4 @@ _deb http://ftp.tsukuba.wide.ad.jp/Linux/raspbian/raspbian/ jessie main contrib 
 
 TADA!!  
 
-Tell me ig it worked for you.  
+Tell me if it worked for you.  
