@@ -13,7 +13,7 @@ While I agree that the app seemed really complex and would certainly struggle fo
 ## Taobao login and products scan  
 Taobao is the ecommerce giant in China with hundred of millions of users. Some will present it as the Chinese amazon or ebay but I think it is more like a craiglist with builtin payment and chat apps. When you try to login on taobao from the brower you can either use a password then receive an sms on your phone (2FA) or scan a QR code and confirm the login from your taobao mobile app.
 
-![QQ Music login]({{site.baseurl}}/img/media-20170424.png)![media-20170424.png]({{site.baseurl}}/img/media-20170424.png)
+![QQ Music login]({{site.baseurl}}/img/media-20170424.png)!
 
 
 ## Login on wechat on my computer  
@@ -37,7 +37,7 @@ Now in metro station, there are new machines especailly to buy tcikets with mobi
 ## Pay in the supermarket  
 Almost the same as the previous exept that I pay in the supermarket, the cashier as a special reader...
 
-![They have QR codes too!]({{site.baseurl}}/img/media-20170425.png)![media-20170425.png]({{site.baseurl}}/img/media-20170425.png)
+![They have QR codes too!]({{site.baseurl}}/img/media-20170425.png)!
 
 
 ## Follow brands  
