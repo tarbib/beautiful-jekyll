@@ -17,9 +17,9 @@ Then you just have to edit the source file at /etc/apt/sources.list
 
 Add the line and add a # before the other ones:
 
-_deb http://ftp.tsukuba.wide.ad.jp/Linux/raspbian/raspbian/ jessie main contrib non-free rpi
-#deb http://mirrordirector.raspbian.org/raspbian/ jessie main contrib non-free rpi
-#deb-src http://archive.raspbian.org/raspbian/ jessie main contrib non-free rpi_
+_deb http://ftp.tsukuba.wide.ad.jp/Linux/raspbian/raspbian/ jessie main contrib non-free rpi  
+#deb http://mirrordirector.raspbian.org/raspbian/ jessie main contrib non-free rpi  
+#deb-src http://archive.raspbian.org/raspbian/ jessie main contrib non-free rpi_  
 
 TADA!!  
 
