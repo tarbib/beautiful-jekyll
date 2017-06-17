@@ -4,8 +4,7 @@ published: false
 title: QR codes are so convenient PERIOOOOD
 ---
 I was watching episode 21 of the season 8 of Shark Tank, there was a startup called "Valued" trying to drive consumers back to brick and mortar shops when Chris Sacca said at 26.58 : 
-> "And then you show me the QR Codes. QR codes are at the herpes of mobile technology, it should be as simple as : "buy some stuff, get a ride" PERIOOOOD".
-
+"And then you show me the QR Codes. QR codes are at the herpes of mobile technology, it should be as simple as : "buy some stuff, get a ride" PERIOOOOD".
 While I agree that the app seemed really complex and would certainly struggle for user acquisition, I was really surprised with his affirmation regarding QR codes. Indeed I have been living for three years in China now and I think that have not spent a single day without scanning a QR code since then. 
 
 https://twitter.com/sacca/status/853059884622921728/photo/1 
