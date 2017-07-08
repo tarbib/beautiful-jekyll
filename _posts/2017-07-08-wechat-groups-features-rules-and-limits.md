@@ -19,6 +19,7 @@ What an administrator can do that member can't :
  - He can remove people from the group  (but cannot blacklist them so any other members friend with the removed one can invite him back in) 
  - He can send a group notice. 
 What is a group notice? It is a message sent to everybody in the group. Every members will have a notification saying they've been mentioned (@) by somebody in the group. Then the the group notice will stay in the group description and available to see for new members until the next group notice.
+
 - He can name another administrator. 
 
 
