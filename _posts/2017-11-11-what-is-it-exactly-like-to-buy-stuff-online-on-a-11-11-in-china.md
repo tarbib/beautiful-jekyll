@@ -1,7 +1,8 @@
 ---
 layout: post
-published: false
+published: true
 title: 'What is it exactly like to buy stuff online on a 11.11 in China? '
+date: '2017-11-11'
 ---
 Same as every year since 2009, online sales in China on the 11th of November will break a new record. For those of you who lived on another planet, it's the equivalent of the black Friday in China. Behind this operation, there is a guy called Jack Ma, well-known for being the founder of Alibaba group and singing in a stadium dressed as Michael Jackson in front of thousand of his employees. A tech giant including a way better version of eBay, an incredible payment app, an Amazon web service etc etc.
 
