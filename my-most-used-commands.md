@@ -45,3 +45,6 @@ Show where I am located / Current path
 
 df -h  
 Check disk space  
+
+history | grep xxx
+To look for a command entered in the past
